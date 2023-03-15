@@ -1,0 +1,100 @@
+/* Styl dla tabeli spisu treści */
+table {
+	border-collapse: collapse;
+	width: 100%;
+	background-color: #f2f2f2;
+}
+
+th,
+td {
+	text-align: left;
+	padding: 8px;
+	border-bottom: 1px solid #ddd;
+}
+
+th {
+	background-color: #4caf50;
+	color: white;
+}
+
+body {
+	background-image: url('Julian_Tuwim.jpg');
+	background-size: cover;
+	color: #fff;
+	font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+	text-align: center;
+	font-size: 2em;
+	font-weight: normal;
+	margin: 0;
+	padding: 0.5em;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 5px;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+p {
+	margin: 0;
+	padding: 1em;
+	line-height: 1.5;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+}
+/* Stylowanie tytułu */
+h1 {
+	font-size: 3rem;
+	color: #4caf50;
+	text-align: center;
+}
+
+/* Stylowanie autora */
+.author {
+	font-size: 1.5rem;
+	font-style: italic;
+	color: #888;
+	text-align: center;
+}
+
+/* Stylowanie tekstu */
+p {
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin-bottom: 1.5rem;
+}
+
+/* Stylowanie przycisków spisu treści */
+table a {
+	display: block;
+	padding: 0.5rem;
+	background-color: #4caf50;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 0.5rem;
+	transition: background-color 0.3s ease;
+}
+
+table a:hover {
+	background-color: #fff;
+	color: #4caf50;
+}
+
+table a:visited {
+	color: #ccc;
+}
+
+table a:active {
+	background-color: #ddd;
+}
+
+/* Efekt "wciśnięcia" przycisku spisu treści */
+table a:active {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+	transform: translateY(1px);
+}
