@@ -1,0 +1,21 @@
+NAME,TYPE,PHONE,ANNUALREVENUE,SITE
+Marcin, Customer, 123456789, 250000, wp.pl
+Katarzyna, Supplier, 987654321, 400000, onet.pl
+Jakub, Customer, 123456788, 500000, interia.pl
+Marta, Supplier, 987654322, 800000, gazeta.pl
+Paweł, Customer, 123456787, 750000, wykop.pl
+Anna, Supplier, 987654323, 950000, o2.pl
+Krzysztof, Customer, 123456786, 600000, tvn24.pl
+Aleksandra, Supplier, 987654324, 300000, wp.pl
+Jan, Customer, 123456785, 350000, interia.pl
+Małgorzata, Supplier, 987654325, 700000, onet.pl
+Piotr, Customer, 123456784, 800000, wp.pl
+Elżbieta, Supplier, 987654326, 600000, o2.pl
+Tomasz, Customer, 123456783, 450000, tvn24.pl
+Magdalena, Supplier, 987654327, 500000, wykop.pl
+Michał, Customer, 123456782, 550000, wp.pl
+Agnieszka, Supplier, 987654328, 1000000, onet.pl
+Łukasz, Customer, 123456781, 650000, interia.pl
+Beata, Supplier, 987654329, 750000, o2.pl
+Jacek, Customer, 123456780, 700000, tvn24.pl
+Monika, Supplier, 987654330, 850000, wykop.pl

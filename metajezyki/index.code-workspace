@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../ważne rzeczy/Desktop/index"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/kinomania"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/index"
+		},
+		{
+			"path": "../../../../../ważne rzeczy/Desktop/Apka_angular"
+		},
+		{
+			"path": "../strona"
+		},
+		{
+			"path": "../Inzynierka"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kinomania"
+	}
+}
